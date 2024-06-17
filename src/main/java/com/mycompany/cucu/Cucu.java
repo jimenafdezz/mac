@@ -11,6 +11,6 @@ package com.mycompany.cucu;
 public class Cucu {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("la vida es una tombola");
     }
 }
